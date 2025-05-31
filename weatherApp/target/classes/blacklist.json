@@ -1,0 +1,9 @@
+{
+  "blacklisted_regions": [
+    "iasi",
+    "bucharest",
+    "mun",
+    "cuba",
+    "russia"
+  ]
+}
